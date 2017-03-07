@@ -4,3 +4,5 @@ added this line the next day to see if git notices the changes..
 
 tony
 this is thursday
+
+this is Tuesday March 2017
